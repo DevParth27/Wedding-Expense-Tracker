@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "923303729323",
+    "project_id": "shaddi",
+    "storage_bucket": "shaddi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923303729323:android:52cb2fcc39dfdd0995bfee",
+        "android_client_info": {
+          "package_name": "com.example.shaadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923303729323-kd476h404td7r1sp1po9i3m3mrjb7f27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaadi",
+            "certificate_hash": "3f28612b0576854aaf3a645a253a31de2e74ef79"
+          }
+        },
+        {
+          "client_id": "923303729323-24dr2qp5uig62af9icf3v1964jl8go8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZl1HmS7DlsSaKmuPmGCOdOGNjeNwFEgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923303729323-24dr2qp5uig62af9icf3v1964jl8go8j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923303729323-74sc6ods632enjn2gq857mnhebl0tph7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shaadi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

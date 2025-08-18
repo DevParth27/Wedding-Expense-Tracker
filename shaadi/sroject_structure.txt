@@ -1,0 +1,28 @@
+lib/
+├── firebase_options.dart
+├── main.dart
+├── models/
+│   ├── expense_model.dart
+│   ├── user_model.dart
+│   └── budget_model.dart
+├── screens/
+│   ├── auth/
+│   │   ├── login_screen.dart
+│   │   └── signup_screen.dart
+│   ├── dashboard/
+│   │   ├── dashboard_screen.dart
+│   │   └── expense_chart.dart
+│   ├── expenses/
+│   │   ├── add_expense_screen.dart
+│   │   ├── expense_list_screen.dart
+│   │   └── expense_detail_screen.dart
+│   └── settings/
+│       └── settings_screen.dart
+├── services/
+│   ├── auth_service.dart
+│   ├── database_service.dart
+│   └── notification_service.dart
+└── widgets/
+    ├── expense_card.dart
+    ├── category_selector.dart
+    └── custom_button.dart
